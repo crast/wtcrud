@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+.*.swp
+.coverage
+.DS_Store
+
+build/
+dist/
+WTCrud\.egg-info
